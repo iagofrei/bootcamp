@@ -1,0 +1,18 @@
+groups:
+  - name: DemoAlerts
+    rules:
+      - alert: InstanceDown 
+        expr: node_cpu_seconds_total{job="node-exporter", mode="system",cpu="4"} > 40
+        for: 1m
+        labels:
+          severity: low
+        annotations:
+          summary: 'Alert with low severity.'
+
+      - alert: InstanceDownCritical
+        expr: up{job="node-exporter"} < 1 
+        for: 1m 
+        labels:
+          severity: high
+        annotations:
+          summary: 'Alert with high severity.'
