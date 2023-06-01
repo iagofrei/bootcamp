@@ -1,0 +1,805 @@
+{
+    "businesses": [
+        {
+            "id": "4BI1hK0tQZwQWino8olmTQ",
+            "alias": "alexander-book-san-francisco",
+            "name": "Alexander Book",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Uf_q5TPobaUzXXpZ65lvhw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/alexander-book-san-francisco?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 211,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                },
+                {
+                    "alias": "stationery",
+                    "title": "Cards & Stationery"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.78859,
+                "longitude": -122.4007332
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "50 2nd St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94105",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "50 2nd St",
+                    "San Francisco, CA 94105"
+                ]
+            },
+            "phone": "+14154952992",
+            "display_phone": "(415) 495-2992",
+            "distance": 4396.988163912506
+        },
+        {
+            "id": "N9c6fjIX7jcuAdWZ6Rj4ZQ",
+            "alias": "the-booksmith-san-francisco",
+            "name": "The Booksmith",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JoJ8lfBmGry8iaO-tCZVAg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-booksmith-san-francisco?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 262,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                },
+                {
+                    "alias": "mags",
+                    "title": "Newspapers & Magazines"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.76931,
+                "longitude": -122.4512485
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1727 Haight St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94117",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1727 Haight St",
+                    "San Francisco, CA 94117"
+                ]
+            },
+            "phone": "+14158638688",
+            "display_phone": "(415) 863-8688",
+            "distance": 1602.3212252688702
+        },
+        {
+            "id": "Uu2yJ_LoL1nTcr3Vf2Oz6g",
+            "alias": "borderlands-books-san-francisco",
+            "name": "Borderlands Books",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/zt8655RiofkhBd1SdRUQfg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/borderlands-books-san-francisco?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 212,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.7696454422024,
+                "longitude": -122.45099043497257
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1740 Haight St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94117",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1740 Haight St",
+                    "San Francisco, CA 94117"
+                ]
+            },
+            "phone": "+14158248203",
+            "display_phone": "(415) 824-8203",
+            "distance": 1606.2593010382498
+        },
+        {
+            "id": "ngUUOEyCHdLkGnO1I5M4Vg",
+            "alias": "green-apple-books-san-francisco",
+            "name": "Green Apple Books",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/o4Aq5cNKR9popVVJ8_InNQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/green-apple-books-san-francisco?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 1393,
+            "categories": [
+                {
+                    "alias": "musicvideo",
+                    "title": "Music & DVDs"
+                },
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.78315627054411,
+                "longitude": -122.46472269989542
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "506 Clement St",
+                "address2": "at 6th Avenue",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "506 Clement St",
+                    "at 6th Avenue",
+                    "San Francisco, CA 94118"
+                ]
+            },
+            "phone": "+14153872272",
+            "display_phone": "(415) 387-2272",
+            "distance": 3507.3367644293944
+        },
+        {
+            "id": "e9Vd5w1sIiPvvUznzdq_vw",
+            "alias": "green-apple-books-on-the-park-san-francisco-10",
+            "name": "Green Apple Books on the Park",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/K7nZPJj3636yWaLJxyVQyg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/green-apple-books-on-the-park-san-francisco-10?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 86,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7653559,
+                "longitude": -122.4667373
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1231 9th Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1231 9th Ave",
+                    "San Francisco, CA 94122"
+                ]
+            },
+            "phone": "+14157425833",
+            "display_phone": "(415) 742-5833",
+            "distance": 2708.374808654912
+        },
+        {
+            "id": "7g7upQhKEPuCnNpfmSQbBg",
+            "alias": "browser-books-san-francisco",
+            "name": "Browser Books",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/BLF3_hQBIcAphvQ8FyJDxg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/browser-books-san-francisco?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 134,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.7895899,
+                "longitude": -122.43428
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2195 Fillmore St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94115",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2195 Fillmore St",
+                    "San Francisco, CA 94115"
+                ]
+            },
+            "phone": "+14155678027",
+            "display_phone": "(415) 567-8027",
+            "distance": 3203.6464230637516
+        },
+        {
+            "id": "NwtGr3rfM8JvIFlRMy9fkw",
+            "alias": "folio-books-san-francisco",
+            "name": "Folio Books",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/iTDsZAzSo83SVDe-82v2cw/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/folio-books-san-francisco?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 44,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.751460046845,
+                "longitude": -122.430842619254
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3957 24th St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94114",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3957 24th St",
+                    "San Francisco, CA 94114"
+                ]
+            },
+            "phone": "+14158213477",
+            "display_phone": "(415) 821-3477",
+            "distance": 1159.4987902263777
+        },
+        {
+            "id": "fhWINTqLgfv53qKGtOdW_A",
+            "alias": "black-bird-bookstore-and-cafe-san-francisco",
+            "name": "Black Bird Bookstore and Cafe",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/w3WIxAUsZAERtsGPDW8PnA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/black-bird-bookstore-and-cafe-san-francisco?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 40,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.762,
+                "longitude": -122.50675
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "4541 Irving St",
+                "address2": "",
+                "address3": null,
+                "city": "San Francisco",
+                "zip_code": "94122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "4541 Irving St",
+                    "San Francisco, CA 94122"
+                ]
+            },
+            "phone": "+14157425203",
+            "display_phone": "(415) 742-5203",
+            "distance": 6183.61428873935
+        },
+        {
+            "id": "_0M70HTJujT9wL-rxEWhPg",
+            "alias": "fabulosa-books-san-francisco",
+            "name": "Fabulosa Books",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/h1cWMEqOWt0H-BPq94AiXg/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/fabulosa-books-san-francisco?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 7,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.7612323,
+                "longitude": -122.43478409999932
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "489 Castro St",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94114",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "489 Castro St",
+                    "San Francisco, CA 94114"
+                ]
+            },
+            "phone": "",
+            "display_phone": "",
+            "distance": 150.80773278197825
+        },
+        {
+            "id": "KRhmAZrHc8DGxYWQEi9JsQ",
+            "alias": "dog-eared-books-san-francisco",
+            "name": "Dog Eared Books",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/CnDZExVaehCl_CNyV2D0nQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/dog-eared-books-san-francisco?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 281,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7583295,
+                "longitude": -122.4214067
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "900 Valencia St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94110",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "900 Valencia St",
+                    "San Francisco, CA 94110"
+                ]
+            },
+            "phone": "+14152821901",
+            "display_phone": "(415) 282-1901",
+            "distance": 1341.2733125325851
+        },
+        {
+            "id": "ip8_lbJ4CRoTAFsId3dl4Q",
+            "alias": "kinokuniya-bookstore-san-francisco-san-francisco-3",
+            "name": "Kinokuniya Bookstore - San Francisco",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_80LsclQrNXG3oOPQ_0R-A/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/kinokuniya-bookstore-san-francisco-san-francisco-3?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 504,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                },
+                {
+                    "alias": "giftshops",
+                    "title": "Gift Shops"
+                },
+                {
+                    "alias": "stationery",
+                    "title": "Cards & Stationery"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.78488,
+                "longitude": -122.431595
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1581 Webster St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94115",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1581 Webster St",
+                    "San Francisco, CA 94115"
+                ]
+            },
+            "phone": "+14155677625",
+            "display_phone": "(415) 567-7625",
+            "distance": 2700.407851180178
+        },
+        {
+            "id": "_rbF2ooLcMRA7Kh8neIr4g",
+            "alias": "city-lights-booksellers-and-publishers-san-francisco",
+            "name": "City Lights Booksellers & Publishers",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0vs66_LENvkj-uQKKeFVfA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/city-lights-booksellers-and-publishers-san-francisco?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 740,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7975997924805,
+                "longitude": -122.406578063965
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "261 Columbus Ave",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94133",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "261 Columbus Ave",
+                    "San Francisco, CA 94133"
+                ]
+            },
+            "phone": "+14153628193",
+            "display_phone": "(415) 362-8193",
+            "distance": 4851.8241078398705
+        },
+        {
+            "id": "BG5xISBIu-hpOAOHeZueKQ",
+            "alias": "books-inc-san-francisco-15",
+            "name": "Books Inc",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/_942yo9cy7Cg9gyP_N68nQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/books-inc-san-francisco-15?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 68,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.786338,
+                "longitude": -122.451783
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3515 California St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3515 California St",
+                    "San Francisco, CA 94118"
+                ]
+            },
+            "phone": "+14152213666",
+            "display_phone": "(415) 221-3666",
+            "distance": 3137.0777876856405
+        },
+        {
+            "id": "Pi8PKZToXw2wqvkOM3Po0Q",
+            "alias": "my-favorite-san-francisco-4",
+            "name": "My Favorite",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/lIf9yxwo69Y9KOuL2suxTA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/my-favorite-san-francisco-4?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 243,
+            "categories": [
+                {
+                    "alias": "stationery",
+                    "title": "Cards & Stationery"
+                },
+                {
+                    "alias": "baby_gear",
+                    "title": "Baby Gear & Furniture"
+                },
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                }
+            ],
+            "rating": 4.0,
+            "coordinates": {
+                "latitude": 37.7639799,
+                "longitude": -122.46446
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "601 Irving St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94122",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "601 Irving St",
+                    "San Francisco, CA 94122"
+                ]
+            },
+            "phone": "+14152425540",
+            "display_phone": "(415) 242-5540",
+            "distance": 2476.1066500149955
+        },
+        {
+            "id": "PlGsGIWwHqJ7bb28Zl9UDg",
+            "alias": "globus-books-san-francisco",
+            "name": "Globus Books",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/cJtNmI36hSSeaq9dMgmTAA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/globus-books-san-francisco?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 8,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                }
+            ],
+            "rating": 5.0,
+            "coordinates": {
+                "latitude": 37.77755,
+                "longitude": -122.46246
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "332 Balboa St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94118",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "332 Balboa St",
+                    "San Francisco, CA 94118"
+                ]
+            },
+            "phone": "+14156684723",
+            "display_phone": "(415) 668-4723",
+            "distance": 2937.323112910807
+        },
+        {
+            "id": "sdIatTFoAAPg8MZHCbrADg",
+            "alias": "bookshop-west-portal-san-francisco",
+            "name": "Bookshop West Portal",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/lwsAqfBrue91Qwh7JD_lIA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bookshop-west-portal-san-francisco?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 132,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.74015,
+                "longitude": -122.46696
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "80 West Portal Ave",
+                "address2": null,
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94127",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "80 West Portal Ave",
+                    "San Francisco, CA 94127"
+                ]
+            },
+            "phone": "+14155648080",
+            "display_phone": "(415) 564-8080",
+            "distance": 3537.2507250892636
+        },
+        {
+            "id": "CKH0JZfrcBfwMh_LPNVCtA",
+            "alias": "the-green-arcade-san-francisco",
+            "name": "The Green Arcade",
+            "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/D6dN3xbDOlFyf6OGN_0QfQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/the-green-arcade-san-francisco?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 66,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.77347,
+                "longitude": -122.42188
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1680 Market St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94102",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1680 Market St",
+                    "San Francisco, CA 94102"
+                ]
+            },
+            "phone": "+14154316800",
+            "display_phone": "(415) 431-6800",
+            "distance": 1886.348578800355
+        },
+        {
+            "id": "Gv9U_NpyvhcQsA6hDvO-Tw",
+            "alias": "omnivore-books-san-francisco",
+            "name": "Omnivore Books",
+            "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_rl_LOvykp-MSpsT0SUOQA/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/omnivore-books-san-francisco?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 134,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                },
+                {
+                    "alias": "usedbooks",
+                    "title": "Used Bookstore"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7476,
+                "longitude": -122.42668
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "3885A Cesar Chavez St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94131",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "3885A Cesar Chavez St",
+                    "San Francisco, CA 94131"
+                ]
+            },
+            "phone": "+14152824712",
+            "display_phone": "(415) 282-4712",
+            "distance": 1708.1974839110874
+        },
+        {
+            "id": "EYi_i_jQ5eQosYrl2-0Blw",
+            "alias": "bound-together-books-san-francisco-3",
+            "name": "Bound Together Books",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/t9aNW4GQGzVQTu6bvMcpJQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bound-together-books-san-francisco-3?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 40,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.77019785954254,
+                "longitude": -122.4447369
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "1369 Haight St",
+                "address2": "",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94117",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "1369 Haight St",
+                    "San Francisco, CA 94117"
+                ]
+            },
+            "phone": "+14154318355",
+            "display_phone": "(415) 431-8355",
+            "distance": 1264.9188656780573
+        },
+        {
+            "id": "Q7ZM5QbCNOjr-clqZYc3qw",
+            "alias": "bolerium-books-san-francisco",
+            "name": "Bolerium Books",
+            "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/iEuXkkQYE7DsC8QKPWL2WQ/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/bolerium-books-san-francisco?adjust_creative=06fOevcaN-K8R8RIKDercQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=06fOevcaN-K8R8RIKDercQ",
+            "review_count": 16,
+            "categories": [
+                {
+                    "alias": "bookstores",
+                    "title": "Bookstores"
+                }
+            ],
+            "rating": 4.5,
+            "coordinates": {
+                "latitude": 37.7626876831055,
+                "longitude": -122.419082641602
+            },
+            "transactions": [],
+            "price": "$$",
+            "location": {
+                "address1": "2141 Mission St",
+                "address2": "Ste 300",
+                "address3": "",
+                "city": "San Francisco",
+                "zip_code": "94110",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "2141 Mission St",
+                    "Ste 300",
+                    "San Francisco, CA 94110"
+                ]
+            },
+            "phone": "+14158636353",
+            "display_phone": "(415) 863-6353",
+            "distance": 1532.3308672406947
+        }
+    ],
+    "total": 206,
+    "region": {
+        "center": {
+            "longitude": -122.43644714355469,
+            "latitude": 37.76089938976322
+        }
+    }
+}

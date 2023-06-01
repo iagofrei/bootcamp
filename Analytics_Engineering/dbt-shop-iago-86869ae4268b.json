@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dbt-shop-iago",
+  "private_key_id": "86869ae4268b664b456841ebe473e91b51b1234b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCu7tX2mefmS7VP\nXiewqvYhJWrej5nWHTstJFdEvA0OdDzGA3NpU4exjzjRVCrVAM8DvWQsP67KhPin\nlzazjsTS5hZOx8dJnrr6+rP45yRIvEGzLRBGf25L8qFJhnZGkqF8Bm75R+/bchlV\nmMOxh6T9IPEwt+sV4PldbOunVSKOcyzKBvC4dLb2mgrzrxEIpETLUqp/pDxrfrkn\np1Inb+GgkhAiRkhdhy8/V0iOB/UvRrmfaDDUQ/AX4LfxIkGCUfTVQFoG7vFflR97\naGrUuD5n89HrCIYaSBaNCYIB2fxt5knArN3Tz3uNY8ZpT34mSgQCpk+HFVbYi2UE\nhrcc8g/dAgMBAAECggEAKkRlCGeZg6iJT3sFhgdY3xtmXg4+cmCvurGMMHxrfzGQ\nuZt92FYpdDqR1OpMSxkd695oBNUCS8ajOgMsYWg+oGKdwz08JsqmjRvkPmDDAJwU\nF9Hsm8wQf2NJmzVVAKpPQGNhjvPVvaUs/+SgbBXFRLAf9tCJicjJF8zIh67nYZmG\nKAvJFjb05ezN3F6ycOonOPOjWl9upyhMmgsK+N4PetUuhHjvuk8PGb4uOCbE15qL\natUJpm3TT6n2fnmXCFS/UaYaWsaqs9G6UmB/kAK50wXLD8Q04G3prxJOaFIqwdCE\nukZimovWzT6LdXJtRJ3rD60J8xB3GO8JAwECdXTpIQKBgQDgk0N3n934bCIfmbXN\nylgGkZD7NmZkYU9S1doDQQVzmXeJkYtCSfAPbFqPSKFt0Srp2bo0lCWfmeyvSlmp\nCd+U+Dk5ZnHPCIwB8exgQ/ZNeFRDMQopYlxzRQzI2XQPSz7VEYEtUEH7g446GVPu\nGCM8i60fsR75KlzO0kc2L87NGQKBgQDHaUkWvNuxi3WcaBQFipATj1hvN5tuwKjh\nW+EtRlUViGkXGfZmnsXneF5CFa0xkJdPEBZyZ8zOV42IxAL7SGL9Sdr54JLGDXAQ\nEYfHf2fxljYZxHcd/1kypd4UYF/MQKe0qMhxqKXwSFhj4S2FwaGioJnfumAPs60w\nbRg2BLPtZQKBgEWV+/rOI4Z9YxltlILepuXqJwVgNtv1txGQyAvoEttd+0c6PO9e\nX683wNvTAoo3nNd3KpZuLTZGCKvMGvog4BGV1I1vq+Yd3NwhbT/q7x/UIC/tuxtV\nqhXhmHOHxcmTZDW7Rc6XpspbWi+wd2w4OHrjQNKoHFPSh41iZMRqjebJAoGAPHfX\nuvZf5DG240vILnn7AINqPKdvEaGIVHYJDTKToGjx/RhZWHry5iLg6kcqcqo2x7nI\nJL8HItb3yy4s/UfRBJ99sGIB/96ZSbYXJ06iFWcIVr31pPoGcU5Mzn7+7a/5atX3\nmkeasgcuDnN821+BBRCQOICKmphQfyvFuLOqX+UCgYAZceEs43BjRHma8I5E2lQu\nlMcIYMfEhNHxs69jX31Hg+22vOyUG/HGN+xq9mWoBMOFjXOy1gMUdPj3nUn+lFi3\nmbODZQhMbR2QgxLraBnG7NF1oYzbUIjQSpkXjelITGBGEg6g/tgee5zoJUwggzBh\nzggQJdP26v/esHlxyGZ4RA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-user@dbt-shop-iago.iam.gserviceaccount.com",
+  "client_id": "110205341243126159703",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-user%40dbt-shop-iago.iam.gserviceaccount.com"
+}
